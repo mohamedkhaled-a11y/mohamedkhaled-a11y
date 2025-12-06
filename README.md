@@ -1,3 +1,5 @@
+![Embedded Systems Developer Banner](8b616a4d-9960-433e-86de-68ffdf623466.png)
+
 ## Hi there, I'm Mohamed Khaled \U0001F44B
 
 I'm an embedded systems and C/C++ developer with a passion for data structures, problem solving, modern C++ and hardware simulation. I enjoy building low level drivers, working on problem sets, and exploring new technologies.
